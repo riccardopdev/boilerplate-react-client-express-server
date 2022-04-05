@@ -1,0 +1,25 @@
+{
+  "name": "checklist-app",
+  "version": "1.0.0",
+  "description": "A check list app with React and Node",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm start --prefix client",
+    "server": "npm start --prefix server",
+    "deploy-client": "npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccardopdev/checklist-app.git"
+  },
+  "keywords": [
+    "utility",
+    "app",
+    "checklist"
+  ],
+  "author": "Riccardo riccardop@outlook.com",
+  "bugs": {
+    "url": "https://github.com/riccardopdev/checklist-app/issues"
+  },
+  "homepage": "https://github.com/riccardopdev/checklist-app#readme"
+}

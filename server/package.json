@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for the checklist app API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "server",
+    "api"
+  ],
+  "author": "Riccardo riccardop@outlook.com",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
