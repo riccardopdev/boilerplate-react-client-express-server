@@ -1,8 +1,7 @@
 {
-  "name": "checklist-app",
+  "name": "boilerplate-react-client-express-server",
   "version": "1.0.0",
-  "description": "A check list app with React and Node",
-  "main": "index.js",
+  "description": "A boilerplate template to build apps with React and Node",
   "scripts": {
     "client": "npm start --prefix client",
     "server": "npm start --prefix server",
@@ -10,16 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riccardopdev/checklist-app.git"
+    "url": "git+https://github.com/riccardopdev/boilerplate-react-client-express-server.git"
   },
   "keywords": [
-    "utility",
-    "app",
-    "checklist"
+    "template",
+    "boilerplate",
+    "react",
+    "node",
+    "express"
   ],
   "author": "Riccardo riccardop@outlook.com",
   "bugs": {
-    "url": "https://github.com/riccardopdev/checklist-app/issues"
+    "url": "https://github.com/riccardopdev/boilerplate-react-client-express-server/issues"
   },
-  "homepage": "https://github.com/riccardopdev/checklist-app#readme"
+  "homepage": "https://github.com/riccardopdev/boilerplate-react-client-express-server#readme"
 }

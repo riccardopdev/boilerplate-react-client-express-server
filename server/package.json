@@ -1,14 +1,15 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Server for the checklist app API",
-  "main": "index.js",
+  "description": "Node-Express Server for the boilerplate",
+  "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
   },
   "keywords": [
     "server",
-    "api"
+    "express",
+    "node"
   ],
   "author": "Riccardo riccardop@outlook.com",
   "dependencies": {
